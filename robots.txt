@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://lv80.github.io/sitemap.xml
+Sitemap: https://nusr.github.io/sitemap.xml
